@@ -1,0 +1,30 @@
+/* * {
+	padding: 0px;
+	margin: 0;
+	box-sizing: border-box;
+  background-color: black;
+} */
+
+/* html,
+body,
+#__next {
+	height: 100%;
+	width: 100%;
+} */
+
+.search input:focus{
+  outline: none;
+}
+
+.darkmodes {
+  background-color: black;
+  
+}
+.darkmodes h1{
+  color: white;
+  
+}
+.darkmodes button{
+  color: blue;
+  
+}
